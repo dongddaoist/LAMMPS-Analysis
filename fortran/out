@@ -1,0 +1,2048 @@
+ nat       37240
+ 25210     
+ 14160     
+ 2980      
+ 58        
+ 14        
+ 21        
+ 27        
+ 33        
+ 1         
+ 0.0000    
+ 0.0000    
+ 0.0000    
+ Atoms     
+        1021
+        1029
+        1037
+        1045
+        1053
+        1061
+        1069
+        1077
+        1085
+        1093
+        1101
+        1109
+        1117
+        1125
+        1133
+        1141
+        1149
+        1157
+        1165
+        1173
+        1181
+        1189
+        1197
+        1205
+        1213
+        1221
+        1229
+        1237
+ knt          28
+/scratch/dih-data-storage1/antiscalant/MD/MAAm-n4-H3SiO4-H2O/run3/polymer.lammpstrj                                                                             
+ Opened            1
+ ITEM:     
+ ipos=            1
+ ITEM:     
+ ipos=            2
+ ITEM:     
+ ipos=            3
+ ITEM:     
+ ipos=            4
+ ITEM:     
+ ipos=            5
+ ITEM:     
+ ipos=            6
+ ITEM:     
+ ipos=            7
+ ITEM:     
+ ipos=            8
+ ITEM:     
+ ipos=            9
+ ITEM:     
+ ipos=           10
+ ITEM:     
+ ipos=           11
+ ITEM:     
+ ipos=           12
+ ITEM:     
+ ipos=           13
+ ITEM:     
+ ipos=           14
+ ITEM:     
+ ipos=           15
+ ITEM:     
+ ipos=           16
+ ITEM:     
+ ipos=           17
+ ITEM:     
+ ipos=           18
+ ITEM:     
+ ipos=           19
+ ITEM:     
+ ipos=           20
+ ITEM:     
+ ipos=           21
+ ITEM:     
+ ipos=           22
+ ITEM:     
+ ipos=           23
+ ITEM:     
+ ipos=           24
+ ITEM:     
+ ipos=           25
+ ITEM:     
+ ipos=           26
+ ITEM:     
+ ipos=           27
+ ITEM:     
+ ipos=           28
+ ITEM:     
+ ipos=           29
+ ITEM:     
+ ipos=           30
+ ITEM:     
+ ipos=           31
+ ITEM:     
+ ipos=           32
+ ITEM:     
+ ipos=           33
+ ITEM:     
+ ipos=           34
+ ITEM:     
+ ipos=           35
+ ITEM:     
+ ipos=           36
+ ITEM:     
+ ipos=           37
+ ITEM:     
+ ipos=           38
+ ITEM:     
+ ipos=           39
+ ITEM:     
+ ipos=           40
+ ITEM:     
+ ipos=           41
+ ITEM:     
+ ipos=           42
+ ITEM:     
+ ipos=           43
+ ITEM:     
+ ipos=           44
+ ITEM:     
+ ipos=           45
+ ITEM:     
+ ipos=           46
+ ITEM:     
+ ipos=           47
+ ITEM:     
+ ipos=           48
+ ITEM:     
+ ipos=           49
+ ITEM:     
+ ipos=           50
+ ITEM:     
+ ipos=           51
+ ITEM:     
+ ipos=           52
+ ITEM:     
+ ipos=           53
+ ITEM:     
+ ipos=           54
+ ITEM:     
+ ipos=           55
+ ITEM:     
+ ipos=           56
+ ITEM:     
+ ipos=           57
+ ITEM:     
+ ipos=           58
+ ITEM:     
+ ipos=           59
+ ITEM:     
+ ipos=           60
+ ITEM:     
+ ipos=           61
+ ITEM:     
+ ipos=           62
+ ITEM:     
+ ipos=           63
+ ITEM:     
+ ipos=           64
+ ITEM:     
+ ipos=           65
+ ITEM:     
+ ipos=           66
+ ITEM:     
+ ipos=           67
+ ITEM:     
+ ipos=           68
+ ITEM:     
+ ipos=           69
+ ITEM:     
+ ipos=           70
+ ITEM:     
+ ipos=           71
+ ITEM:     
+ ipos=           72
+ ITEM:     
+ ipos=           73
+ ITEM:     
+ ipos=           74
+ ITEM:     
+ ipos=           75
+ ITEM:     
+ ipos=           76
+ ITEM:     
+ ipos=           77
+ ITEM:     
+ ipos=           78
+ ITEM:     
+ ipos=           79
+ ITEM:     
+ ipos=           80
+ ITEM:     
+ ipos=           81
+ ITEM:     
+ ipos=           82
+ ITEM:     
+ ipos=           83
+ ITEM:     
+ ipos=           84
+ ITEM:     
+ ipos=           85
+ ITEM:     
+ ipos=           86
+ ITEM:     
+ ipos=           87
+ ITEM:     
+ ipos=           88
+ ITEM:     
+ ipos=           89
+ ITEM:     
+ ipos=           90
+ ITEM:     
+ ipos=           91
+ ITEM:     
+ ipos=           92
+ ITEM:     
+ ipos=           93
+ ITEM:     
+ ipos=           94
+ ITEM:     
+ ipos=           95
+ ITEM:     
+ ipos=           96
+ ITEM:     
+ ipos=           97
+ ITEM:     
+ ipos=           98
+ ITEM:     
+ ipos=           99
+ ITEM:     
+ ipos=          100
+ ITEM:     
+ ipos=          101
+ ITEM:     
+ ipos=          102
+ ITEM:     
+ ipos=          103
+ ITEM:     
+ ipos=          104
+ ITEM:     
+ ipos=          105
+ ITEM:     
+ ipos=          106
+ ITEM:     
+ ipos=          107
+ ITEM:     
+ ipos=          108
+ ITEM:     
+ ipos=          109
+ ITEM:     
+ ipos=          110
+ ITEM:     
+ ipos=          111
+ ITEM:     
+ ipos=          112
+ ITEM:     
+ ipos=          113
+ ITEM:     
+ ipos=          114
+ ITEM:     
+ ipos=          115
+ ITEM:     
+ ipos=          116
+ ITEM:     
+ ipos=          117
+ ITEM:     
+ ipos=          118
+ ITEM:     
+ ipos=          119
+ ITEM:     
+ ipos=          120
+ ITEM:     
+ ipos=          121
+ ITEM:     
+ ipos=          122
+ ITEM:     
+ ipos=          123
+ ITEM:     
+ ipos=          124
+ ITEM:     
+ ipos=          125
+ ITEM:     
+ ipos=          126
+ ITEM:     
+ ipos=          127
+ ITEM:     
+ ipos=          128
+ ITEM:     
+ ipos=          129
+ ITEM:     
+ ipos=          130
+ ITEM:     
+ ipos=          131
+ ITEM:     
+ ipos=          132
+ ITEM:     
+ ipos=          133
+ ITEM:     
+ ipos=          134
+ ITEM:     
+ ipos=          135
+ ITEM:     
+ ipos=          136
+ ITEM:     
+ ipos=          137
+ ITEM:     
+ ipos=          138
+ ITEM:     
+ ipos=          139
+ ITEM:     
+ ipos=          140
+ ITEM:     
+ ipos=          141
+ ITEM:     
+ ipos=          142
+ ITEM:     
+ ipos=          143
+ ITEM:     
+ ipos=          144
+ ITEM:     
+ ipos=          145
+ ITEM:     
+ ipos=          146
+ ITEM:     
+ ipos=          147
+ ITEM:     
+ ipos=          148
+ ITEM:     
+ ipos=          149
+ ITEM:     
+ ipos=          150
+ ITEM:     
+ ipos=          151
+ ITEM:     
+ ipos=          152
+ ITEM:     
+ ipos=          153
+ ITEM:     
+ ipos=          154
+ ITEM:     
+ ipos=          155
+ ITEM:     
+ ipos=          156
+ ITEM:     
+ ipos=          157
+ ITEM:     
+ ipos=          158
+ ITEM:     
+ ipos=          159
+ ITEM:     
+ ipos=          160
+ ITEM:     
+ ipos=          161
+ ITEM:     
+ ipos=          162
+ ITEM:     
+ ipos=          163
+ ITEM:     
+ ipos=          164
+ ITEM:     
+ ipos=          165
+ ITEM:     
+ ipos=          166
+ ITEM:     
+ ipos=          167
+ ITEM:     
+ ipos=          168
+ ITEM:     
+ ipos=          169
+ ITEM:     
+ ipos=          170
+ ITEM:     
+ ipos=          171
+ ITEM:     
+ ipos=          172
+ ITEM:     
+ ipos=          173
+ ITEM:     
+ ipos=          174
+ ITEM:     
+ ipos=          175
+ ITEM:     
+ ipos=          176
+ ITEM:     
+ ipos=          177
+ ITEM:     
+ ipos=          178
+ ITEM:     
+ ipos=          179
+ ITEM:     
+ ipos=          180
+ ITEM:     
+ ipos=          181
+ ITEM:     
+ ipos=          182
+ ITEM:     
+ ipos=          183
+ ITEM:     
+ ipos=          184
+ ITEM:     
+ ipos=          185
+ ITEM:     
+ ipos=          186
+ ITEM:     
+ ipos=          187
+ ITEM:     
+ ipos=          188
+ ITEM:     
+ ipos=          189
+ ITEM:     
+ ipos=          190
+ ITEM:     
+ ipos=          191
+ ITEM:     
+ ipos=          192
+ ITEM:     
+ ipos=          193
+ ITEM:     
+ ipos=          194
+ ITEM:     
+ ipos=          195
+ ITEM:     
+ ipos=          196
+ ITEM:     
+ ipos=          197
+ ITEM:     
+ ipos=          198
+ ITEM:     
+ ipos=          199
+ ITEM:     
+ ipos=          200
+ ITEM:     
+ ipos=          201
+ ITEM:     
+ ipos=          202
+ ITEM:     
+ ipos=          203
+ ITEM:     
+ ipos=          204
+ ITEM:     
+ ipos=          205
+ ITEM:     
+ ipos=          206
+ ITEM:     
+ ipos=          207
+ ITEM:     
+ ipos=          208
+ ITEM:     
+ ipos=          209
+ ITEM:     
+ ipos=          210
+ ITEM:     
+ ipos=          211
+ ITEM:     
+ ipos=          212
+ ITEM:     
+ ipos=          213
+ ITEM:     
+ ipos=          214
+ ITEM:     
+ ipos=          215
+ ITEM:     
+ ipos=          216
+ ITEM:     
+ ipos=          217
+ ITEM:     
+ ipos=          218
+ ITEM:     
+ ipos=          219
+ ITEM:     
+ ipos=          220
+ ITEM:     
+ ipos=          221
+ ITEM:     
+ ipos=          222
+ ITEM:     
+ ipos=          223
+ ITEM:     
+ ipos=          224
+ ITEM:     
+ ipos=          225
+ ITEM:     
+ ipos=          226
+ ITEM:     
+ ipos=          227
+ ITEM:     
+ ipos=          228
+ ITEM:     
+ ipos=          229
+ ITEM:     
+ ipos=          230
+ ITEM:     
+ ipos=          231
+ ITEM:     
+ ipos=          232
+ ITEM:     
+ ipos=          233
+ ITEM:     
+ ipos=          234
+ ITEM:     
+ ipos=          235
+ ITEM:     
+ ipos=          236
+ ITEM:     
+ ipos=          237
+ ITEM:     
+ ipos=          238
+ ITEM:     
+ ipos=          239
+ ITEM:     
+ ipos=          240
+ ITEM:     
+ ipos=          241
+ ITEM:     
+ ipos=          242
+ ITEM:     
+ ipos=          243
+ ITEM:     
+ ipos=          244
+ ITEM:     
+ ipos=          245
+ ITEM:     
+ ipos=          246
+ ITEM:     
+ ipos=          247
+ ITEM:     
+ ipos=          248
+ ITEM:     
+ ipos=          249
+ ITEM:     
+ ipos=          250
+ ITEM:     
+ ipos=          251
+ ITEM:     
+ ipos=          252
+ ITEM:     
+ ipos=          253
+ ITEM:     
+ ipos=          254
+ ITEM:     
+ ipos=          255
+ ITEM:     
+ ipos=          256
+ ITEM:     
+ ipos=          257
+ ITEM:     
+ ipos=          258
+ ITEM:     
+ ipos=          259
+ ITEM:     
+ ipos=          260
+ ITEM:     
+ ipos=          261
+ ITEM:     
+ ipos=          262
+ ITEM:     
+ ipos=          263
+ ITEM:     
+ ipos=          264
+ ITEM:     
+ ipos=          265
+ ITEM:     
+ ipos=          266
+ ITEM:     
+ ipos=          267
+ ITEM:     
+ ipos=          268
+ ITEM:     
+ ipos=          269
+ ITEM:     
+ ipos=          270
+ ITEM:     
+ ipos=          271
+ ITEM:     
+ ipos=          272
+ ITEM:     
+ ipos=          273
+ ITEM:     
+ ipos=          274
+ ITEM:     
+ ipos=          275
+ ITEM:     
+ ipos=          276
+ ITEM:     
+ ipos=          277
+ ITEM:     
+ ipos=          278
+ ITEM:     
+ ipos=          279
+ ITEM:     
+ ipos=          280
+ ITEM:     
+ ipos=          281
+ ITEM:     
+ ipos=          282
+ ITEM:     
+ ipos=          283
+ ITEM:     
+ ipos=          284
+ ITEM:     
+ ipos=          285
+ ITEM:     
+ ipos=          286
+ ITEM:     
+ ipos=          287
+ ITEM:     
+ ipos=          288
+ ITEM:     
+ ipos=          289
+ ITEM:     
+ ipos=          290
+ ITEM:     
+ ipos=          291
+ ITEM:     
+ ipos=          292
+ ITEM:     
+ ipos=          293
+ ITEM:     
+ ipos=          294
+ ITEM:     
+ ipos=          295
+ ITEM:     
+ ipos=          296
+ ITEM:     
+ ipos=          297
+ ITEM:     
+ ipos=          298
+ ITEM:     
+ ipos=          299
+ ITEM:     
+ ipos=          300
+ ITEM:     
+ ipos=          301
+ ITEM:     
+ ipos=          302
+ ITEM:     
+ ipos=          303
+ ITEM:     
+ ipos=          304
+ ITEM:     
+ ipos=          305
+ ITEM:     
+ ipos=          306
+ ITEM:     
+ ipos=          307
+ ITEM:     
+ ipos=          308
+ ITEM:     
+ ipos=          309
+ ITEM:     
+ ipos=          310
+ ITEM:     
+ ipos=          311
+ ITEM:     
+ ipos=          312
+ ITEM:     
+ ipos=          313
+ ITEM:     
+ ipos=          314
+ ITEM:     
+ ipos=          315
+ ITEM:     
+ ipos=          316
+ ITEM:     
+ ipos=          317
+ ITEM:     
+ ipos=          318
+ ITEM:     
+ ipos=          319
+ ITEM:     
+ ipos=          320
+ ITEM:     
+ ipos=          321
+ ITEM:     
+ ipos=          322
+ ITEM:     
+ ipos=          323
+ ITEM:     
+ ipos=          324
+ ITEM:     
+ ipos=          325
+ ITEM:     
+ ipos=          326
+ ITEM:     
+ ipos=          327
+ ITEM:     
+ ipos=          328
+ ITEM:     
+ ipos=          329
+ ITEM:     
+ ipos=          330
+ ITEM:     
+ ipos=          331
+ ITEM:     
+ ipos=          332
+ ITEM:     
+ ipos=          333
+ ITEM:     
+ ipos=          334
+ ITEM:     
+ ipos=          335
+ ITEM:     
+ ipos=          336
+ ITEM:     
+ ipos=          337
+ ITEM:     
+ ipos=          338
+ ITEM:     
+ ipos=          339
+ ITEM:     
+ ipos=          340
+ ITEM:     
+ ipos=          341
+ ITEM:     
+ ipos=          342
+ ITEM:     
+ ipos=          343
+ ITEM:     
+ ipos=          344
+ ITEM:     
+ ipos=          345
+ ITEM:     
+ ipos=          346
+ ITEM:     
+ ipos=          347
+ ITEM:     
+ ipos=          348
+ ITEM:     
+ ipos=          349
+ ITEM:     
+ ipos=          350
+ ITEM:     
+ ipos=          351
+ ITEM:     
+ ipos=          352
+ ITEM:     
+ ipos=          353
+ ITEM:     
+ ipos=          354
+ ITEM:     
+ ipos=          355
+ ITEM:     
+ ipos=          356
+ ITEM:     
+ ipos=          357
+ ITEM:     
+ ipos=          358
+ ITEM:     
+ ipos=          359
+ ITEM:     
+ ipos=          360
+ ITEM:     
+ ipos=          361
+ ITEM:     
+ ipos=          362
+ ITEM:     
+ ipos=          363
+ ITEM:     
+ ipos=          364
+ ITEM:     
+ ipos=          365
+ ITEM:     
+ ipos=          366
+ ITEM:     
+ ipos=          367
+ ITEM:     
+ ipos=          368
+ ITEM:     
+ ipos=          369
+ ITEM:     
+ ipos=          370
+ ITEM:     
+ ipos=          371
+ ITEM:     
+ ipos=          372
+ ITEM:     
+ ipos=          373
+ ITEM:     
+ ipos=          374
+ ITEM:     
+ ipos=          375
+ ITEM:     
+ ipos=          376
+ ITEM:     
+ ipos=          377
+ ITEM:     
+ ipos=          378
+ ITEM:     
+ ipos=          379
+ ITEM:     
+ ipos=          380
+ ITEM:     
+ ipos=          381
+ ITEM:     
+ ipos=          382
+ ITEM:     
+ ipos=          383
+ ITEM:     
+ ipos=          384
+ ITEM:     
+ ipos=          385
+ ITEM:     
+ ipos=          386
+ ITEM:     
+ ipos=          387
+ ITEM:     
+ ipos=          388
+ ITEM:     
+ ipos=          389
+ ITEM:     
+ ipos=          390
+ ITEM:     
+ ipos=          391
+ ITEM:     
+ ipos=          392
+ ITEM:     
+ ipos=          393
+ ITEM:     
+ ipos=          394
+ ITEM:     
+ ipos=          395
+ ITEM:     
+ ipos=          396
+ ITEM:     
+ ipos=          397
+ ITEM:     
+ ipos=          398
+ ITEM:     
+ ipos=          399
+ ITEM:     
+ ipos=          400
+ ITEM:     
+ ipos=          401
+ ITEM:     
+ ipos=          402
+ ITEM:     
+ ipos=          403
+ ITEM:     
+ ipos=          404
+ ITEM:     
+ ipos=          405
+ ITEM:     
+ ipos=          406
+ ITEM:     
+ ipos=          407
+ ITEM:     
+ ipos=          408
+ ITEM:     
+ ipos=          409
+ ITEM:     
+ ipos=          410
+ ITEM:     
+ ipos=          411
+ ITEM:     
+ ipos=          412
+ ITEM:     
+ ipos=          413
+ ITEM:     
+ ipos=          414
+ ITEM:     
+ ipos=          415
+ ITEM:     
+ ipos=          416
+ ITEM:     
+ ipos=          417
+ ITEM:     
+ ipos=          418
+ ITEM:     
+ ipos=          419
+ ITEM:     
+ ipos=          420
+ ITEM:     
+ ipos=          421
+ ITEM:     
+ ipos=          422
+ ITEM:     
+ ipos=          423
+ ITEM:     
+ ipos=          424
+ ITEM:     
+ ipos=          425
+ ITEM:     
+ ipos=          426
+ ITEM:     
+ ipos=          427
+ ITEM:     
+ ipos=          428
+ ITEM:     
+ ipos=          429
+ ITEM:     
+ ipos=          430
+ ITEM:     
+ ipos=          431
+ ITEM:     
+ ipos=          432
+ ITEM:     
+ ipos=          433
+ ITEM:     
+ ipos=          434
+ ITEM:     
+ ipos=          435
+ ITEM:     
+ ipos=          436
+ ITEM:     
+ ipos=          437
+ ITEM:     
+ ipos=          438
+ ITEM:     
+ ipos=          439
+ ITEM:     
+ ipos=          440
+ ITEM:     
+ ipos=          441
+ ITEM:     
+ ipos=          442
+ ITEM:     
+ ipos=          443
+ ITEM:     
+ ipos=          444
+ ITEM:     
+ ipos=          445
+ ITEM:     
+ ipos=          446
+ ITEM:     
+ ipos=          447
+ ITEM:     
+ ipos=          448
+ ITEM:     
+ ipos=          449
+ ITEM:     
+ ipos=          450
+ ITEM:     
+ ipos=          451
+ ITEM:     
+ ipos=          452
+ ITEM:     
+ ipos=          453
+ ITEM:     
+ ipos=          454
+ ITEM:     
+ ipos=          455
+ ITEM:     
+ ipos=          456
+ ITEM:     
+ ipos=          457
+ ITEM:     
+ ipos=          458
+ ITEM:     
+ ipos=          459
+ ITEM:     
+ ipos=          460
+ ITEM:     
+ ipos=          461
+ ITEM:     
+ ipos=          462
+ ITEM:     
+ ipos=          463
+ ITEM:     
+ ipos=          464
+ ITEM:     
+ ipos=          465
+ ITEM:     
+ ipos=          466
+ ITEM:     
+ ipos=          467
+ ITEM:     
+ ipos=          468
+ ITEM:     
+ ipos=          469
+ ITEM:     
+ ipos=          470
+ ITEM:     
+ ipos=          471
+ ITEM:     
+ ipos=          472
+ ITEM:     
+ ipos=          473
+ ITEM:     
+ ipos=          474
+ ITEM:     
+ ipos=          475
+ ITEM:     
+ ipos=          476
+ ITEM:     
+ ipos=          477
+ ITEM:     
+ ipos=          478
+ ITEM:     
+ ipos=          479
+ ITEM:     
+ ipos=          480
+ ITEM:     
+ ipos=          481
+ ITEM:     
+ ipos=          482
+ ITEM:     
+ ipos=          483
+ ITEM:     
+ ipos=          484
+ ITEM:     
+ ipos=          485
+ ITEM:     
+ ipos=          486
+ ITEM:     
+ ipos=          487
+ ITEM:     
+ ipos=          488
+ ITEM:     
+ ipos=          489
+ ITEM:     
+ ipos=          490
+ ITEM:     
+ ipos=          491
+ ITEM:     
+ ipos=          492
+ ITEM:     
+ ipos=          493
+ ITEM:     
+ ipos=          494
+ ITEM:     
+ ipos=          495
+ ITEM:     
+ ipos=          496
+ ITEM:     
+ ipos=          497
+ ITEM:     
+ ipos=          498
+ ITEM:     
+ ipos=          499
+ ITEM:     
+ ipos=          500
+ ITEM:     
+ ipos=          501
+ ITEM:     
+ ipos=          502
+ ITEM:     
+ ipos=          503
+ ITEM:     
+ ipos=          504
+ ITEM:     
+ ipos=          505
+ ITEM:     
+ ipos=          506
+ ITEM:     
+ ipos=          507
+ ITEM:     
+ ipos=          508
+ ITEM:     
+ ipos=          509
+ ITEM:     
+ ipos=          510
+ ITEM:     
+ ipos=          511
+ ITEM:     
+ ipos=          512
+ ITEM:     
+ ipos=          513
+ ITEM:     
+ ipos=          514
+ ITEM:     
+ ipos=          515
+ ITEM:     
+ ipos=          516
+ ITEM:     
+ ipos=          517
+ ITEM:     
+ ipos=          518
+ ITEM:     
+ ipos=          519
+ ITEM:     
+ ipos=          520
+ ITEM:     
+ ipos=          521
+ ITEM:     
+ ipos=          522
+ ITEM:     
+ ipos=          523
+ ITEM:     
+ ipos=          524
+ ITEM:     
+ ipos=          525
+ ITEM:     
+ ipos=          526
+ ITEM:     
+ ipos=          527
+ ITEM:     
+ ipos=          528
+ ITEM:     
+ ipos=          529
+ ITEM:     
+ ipos=          530
+ ITEM:     
+ ipos=          531
+ ITEM:     
+ ipos=          532
+ ITEM:     
+ ipos=          533
+ ITEM:     
+ ipos=          534
+ ITEM:     
+ ipos=          535
+ ITEM:     
+ ipos=          536
+ ITEM:     
+ ipos=          537
+ ITEM:     
+ ipos=          538
+ ITEM:     
+ ipos=          539
+ ITEM:     
+ ipos=          540
+ ITEM:     
+ ipos=          541
+ ITEM:     
+ ipos=          542
+ ITEM:     
+ ipos=          543
+ ITEM:     
+ ipos=          544
+ ITEM:     
+ ipos=          545
+ ITEM:     
+ ipos=          546
+ ITEM:     
+ ipos=          547
+ ITEM:     
+ ipos=          548
+ ITEM:     
+ ipos=          549
+ ITEM:     
+ ipos=          550
+ ITEM:     
+ ipos=          551
+ ITEM:     
+ ipos=          552
+ ITEM:     
+ ipos=          553
+ ITEM:     
+ ipos=          554
+ ITEM:     
+ ipos=          555
+ ITEM:     
+ ipos=          556
+ ITEM:     
+ ipos=          557
+ ITEM:     
+ ipos=          558
+ ITEM:     
+ ipos=          559
+ ITEM:     
+ ipos=          560
+ ITEM:     
+ ipos=          561
+ ITEM:     
+ ipos=          562
+ ITEM:     
+ ipos=          563
+ ITEM:     
+ ipos=          564
+ ITEM:     
+ ipos=          565
+ ITEM:     
+ ipos=          566
+ ITEM:     
+ ipos=          567
+ ITEM:     
+ ipos=          568
+ ITEM:     
+ ipos=          569
+ ITEM:     
+ ipos=          570
+ ITEM:     
+ ipos=          571
+ ITEM:     
+ ipos=          572
+ ITEM:     
+ ipos=          573
+ ITEM:     
+ ipos=          574
+ ITEM:     
+ ipos=          575
+ ITEM:     
+ ipos=          576
+ ITEM:     
+ ipos=          577
+ ITEM:     
+ ipos=          578
+ ITEM:     
+ ipos=          579
+ ITEM:     
+ ipos=          580
+ ITEM:     
+ ipos=          581
+ ITEM:     
+ ipos=          582
+ ITEM:     
+ ipos=          583
+ ITEM:     
+ ipos=          584
+ ITEM:     
+ ipos=          585
+ ITEM:     
+ ipos=          586
+ ITEM:     
+ ipos=          587
+ ITEM:     
+ ipos=          588
+ ITEM:     
+ ipos=          589
+ ITEM:     
+ ipos=          590
+ ITEM:     
+ ipos=          591
+ ITEM:     
+ ipos=          592
+ ITEM:     
+ ipos=          593
+ ITEM:     
+ ipos=          594
+ ITEM:     
+ ipos=          595
+ ITEM:     
+ ipos=          596
+ ITEM:     
+ ipos=          597
+ ITEM:     
+ ipos=          598
+ ITEM:     
+ ipos=          599
+ ITEM:     
+ ipos=          600
+ ITEM:     
+ ipos=          601
+ ITEM:     
+ ipos=          602
+ ITEM:     
+ ipos=          603
+ ITEM:     
+ ipos=          604
+ ITEM:     
+ ipos=          605
+ ITEM:     
+ ipos=          606
+ ITEM:     
+ ipos=          607
+ ITEM:     
+ ipos=          608
+ ITEM:     
+ ipos=          609
+ ITEM:     
+ ipos=          610
+ ITEM:     
+ ipos=          611
+ ITEM:     
+ ipos=          612
+ ITEM:     
+ ipos=          613
+ ITEM:     
+ ipos=          614
+ ITEM:     
+ ipos=          615
+ ITEM:     
+ ipos=          616
+ ITEM:     
+ ipos=          617
+ ITEM:     
+ ipos=          618
+ ITEM:     
+ ipos=          619
+ ITEM:     
+ ipos=          620
+ ITEM:     
+ ipos=          621
+ ITEM:     
+ ipos=          622
+ ITEM:     
+ ipos=          623
+ ITEM:     
+ ipos=          624
+ ITEM:     
+ ipos=          625
+ ITEM:     
+ ipos=          626
+ ITEM:     
+ ipos=          627
+ ITEM:     
+ ipos=          628
+ ITEM:     
+ ipos=          629
+ ITEM:     
+ ipos=          630
+ ITEM:     
+ ipos=          631
+ ITEM:     
+ ipos=          632
+ ITEM:     
+ ipos=          633
+ ITEM:     
+ ipos=          634
+ ITEM:     
+ ipos=          635
+ ITEM:     
+ ipos=          636
+ ITEM:     
+ ipos=          637
+ ITEM:     
+ ipos=          638
+ ITEM:     
+ ipos=          639
+ ITEM:     
+ ipos=          640
+ ITEM:     
+ ipos=          641
+ ITEM:     
+ ipos=          642
+ ITEM:     
+ ipos=          643
+ ITEM:     
+ ipos=          644
+ ITEM:     
+ ipos=          645
+ ITEM:     
+ ipos=          646
+ ITEM:     
+ ipos=          647
+ ITEM:     
+ ipos=          648
+ ITEM:     
+ ipos=          649
+ ITEM:     
+ ipos=          650
+ ITEM:     
+ ipos=          651
+ ITEM:     
+ ipos=          652
+ ITEM:     
+ ipos=          653
+ ITEM:     
+ ipos=          654
+ ITEM:     
+ ipos=          655
+ ITEM:     
+ ipos=          656
+ ITEM:     
+ ipos=          657
+ ITEM:     
+ ipos=          658
+ ITEM:     
+ ipos=          659
+ ITEM:     
+ ipos=          660
+ ITEM:     
+ ipos=          661
+ ITEM:     
+ ipos=          662
+ ITEM:     
+ ipos=          663
+ ITEM:     
+ ipos=          664
+ ITEM:     
+ ipos=          665
+ ITEM:     
+ ipos=          666
+ ITEM:     
+ ipos=          667
+ ITEM:     
+ ipos=          668
+ ITEM:     
+ ipos=          669
+ ITEM:     
+ ipos=          670
+ ITEM:     
+ ipos=          671
+ ITEM:     
+ ipos=          672
+ ITEM:     
+ ipos=          673
+ ITEM:     
+ ipos=          674
+ ITEM:     
+ ipos=          675
+ ITEM:     
+ ipos=          676
+ ITEM:     
+ ipos=          677
+ ITEM:     
+ ipos=          678
+ ITEM:     
+ ipos=          679
+ ITEM:     
+ ipos=          680
+ ITEM:     
+ ipos=          681
+ ITEM:     
+ ipos=          682
+ ITEM:     
+ ipos=          683
+ ITEM:     
+ ipos=          684
+ ITEM:     
+ ipos=          685
+ ITEM:     
+ ipos=          686
+ ITEM:     
+ ipos=          687
+ ITEM:     
+ ipos=          688
+ ITEM:     
+ ipos=          689
+ ITEM:     
+ ipos=          690
+ ITEM:     
+ ipos=          691
+ ITEM:     
+ ipos=          692
+ ITEM:     
+ ipos=          693
+ ITEM:     
+ ipos=          694
+ ITEM:     
+ ipos=          695
+ ITEM:     
+ ipos=          696
+ ITEM:     
+ ipos=          697
+ ITEM:     
+ ipos=          698
+ ITEM:     
+ ipos=          699
+ ITEM:     
+ ipos=          700
+ ITEM:     
+ ipos=          701
+ ITEM:     
+ ipos=          702
+ ITEM:     
+ ipos=          703
+ ITEM:     
+ ipos=          704
+ ITEM:     
+ ipos=          705
+ ITEM:     
+ ipos=          706
+ ITEM:     
+ ipos=          707
+ ITEM:     
+ ipos=          708
+ ITEM:     
+ ipos=          709
+ ITEM:     
+ ipos=          710
+ ITEM:     
+ ipos=          711
+ ITEM:     
+ ipos=          712
+ ITEM:     
+ ipos=          713
+ ITEM:     
+ ipos=          714
+ ITEM:     
+ ipos=          715
+ ITEM:     
+ ipos=          716
+ ITEM:     
+ ipos=          717
+ ITEM:     
+ ipos=          718
+ ITEM:     
+ ipos=          719
+ ITEM:     
+ ipos=          720
+ ITEM:     
+ ipos=          721
+ ITEM:     
+ ipos=          722
+ ITEM:     
+ ipos=          723
+ ITEM:     
+ ipos=          724
+ ITEM:     
+ ipos=          725
+ ITEM:     
+ ipos=          726
+ ITEM:     
+ ipos=          727
+ ITEM:     
+ ipos=          728
+ ITEM:     
+ ipos=          729
+ ITEM:     
+ ipos=          730
+ ITEM:     
+ ipos=          731
+ ITEM:     
+ ipos=          732
+ ITEM:     
+ ipos=          733
+ ITEM:     
+ ipos=          734
+ ITEM:     
+ ipos=          735
+ ITEM:     
+ ipos=          736
+ ITEM:     
+ ipos=          737
+ ITEM:     
+ ipos=          738
+ ITEM:     
+ ipos=          739
+ ITEM:     
+ ipos=          740
+ ITEM:     
+ ipos=          741
+ ITEM:     
+ ipos=          742
+ ITEM:     
+ ipos=          743
+ ITEM:     
+ ipos=          744
+ ITEM:     
+ ipos=          745
+ ITEM:     
+ ipos=          746
+ ITEM:     
+ ipos=          747
+ ITEM:     
+ ipos=          748
+ ITEM:     
+ ipos=          749
+ ITEM:     
+ ipos=          750
+ ITEM:     
+ ipos=          751
+ ITEM:     
+ ipos=          752
+ ITEM:     
+ ipos=          753
+ ITEM:     
+ ipos=          754
+ ITEM:     
+ ipos=          755
+ ITEM:     
+ ipos=          756
+ ITEM:     
+ ipos=          757
+ ITEM:     
+ ipos=          758
+ ITEM:     
+ ipos=          759
+ ITEM:     
+ ipos=          760
+ ITEM:     
+ ipos=          761
+ ITEM:     
+ ipos=          762
+ ITEM:     
+ ipos=          763
+ ITEM:     
+ ipos=          764
+ ITEM:     
+ ipos=          765
+ ITEM:     
+ ipos=          766
+ ITEM:     
+ ipos=          767
+ ITEM:     
+ ipos=          768
+ ITEM:     
+ ipos=          769
+ ITEM:     
+ ipos=          770
+ ITEM:     
+ ipos=          771
+ ITEM:     
+ ipos=          772
+ ITEM:     
+ ipos=          773
+ ITEM:     
+ ipos=          774
+ ITEM:     
+ ipos=          775
+ ITEM:     
+ ipos=          776
+ ITEM:     
+ ipos=          777
+ ITEM:     
+ ipos=          778
+ ITEM:     
+ ipos=          779
+ ITEM:     
+ ipos=          780
+ ITEM:     
+ ipos=          781
+ ITEM:     
+ ipos=          782
+ ITEM:     
+ ipos=          783
+ ITEM:     
+ ipos=          784
+ ITEM:     
+ ipos=          785
+ ITEM:     
+ ipos=          786
+ ITEM:     
+ ipos=          787
+ ITEM:     
+ ipos=          788
+ ITEM:     
+ ipos=          789
+ ITEM:     
+ ipos=          790
+ ITEM:     
+ ipos=          791
+ ITEM:     
+ ipos=          792
+ ITEM:     
+ ipos=          793
+ ITEM:     
+ ipos=          794
+ ITEM:     
+ ipos=          795
+ ITEM:     
+ ipos=          796
+ ITEM:     
+ ipos=          797
+ ITEM:     
+ ipos=          798
+ ITEM:     
+ ipos=          799
+ ITEM:     
+ ipos=          800
+ ITEM:     
+ ipos=          801
+ ITEM:     
+ ipos=          802
+ ITEM:     
+ ipos=          803
+ ITEM:     
+ ipos=          804
+ ITEM:     
+ ipos=          805
+ ITEM:     
+ ipos=          806
+ ITEM:     
+ ipos=          807
+ ITEM:     
+ ipos=          808
+ ITEM:     
+ ipos=          809
+ ITEM:     
+ ipos=          810
+ ITEM:     
+ ipos=          811
+ ITEM:     
+ ipos=          812
+ ITEM:     
+ ipos=          813
+ ITEM:     
+ ipos=          814
+ ITEM:     
+ ipos=          815
+ ITEM:     
+ ipos=          816
+ ITEM:     
+ ipos=          817
+ ITEM:     
+ ipos=          818
+ ITEM:     
+ ipos=          819
+ ITEM:     
+ ipos=          820
+ ITEM:     
+ ipos=          821
+ ITEM:     
+ ipos=          822
+ ITEM:     
+ ipos=          823
+ ITEM:     
+ ipos=          824
+ ITEM:     
+ ipos=          825
+ ITEM:     
+ ipos=          826
+ ITEM:     
+ ipos=          827
+ ITEM:     
+ ipos=          828
+ ITEM:     
+ ipos=          829
+ ITEM:     
+ ipos=          830
+ ITEM:     
+ ipos=          831
+ ITEM:     
+ ipos=          832
+ ITEM:     
+ ipos=          833
+ ITEM:     
+ ipos=          834
+ ITEM:     
+ ipos=          835
+ ITEM:     
+ ipos=          836
+ ITEM:     
+ ipos=          837
+ ITEM:     
+ ipos=          838
+ ITEM:     
+ ipos=          839
+ ITEM:     
+ ipos=          840
+ ITEM:     
+ ipos=          841
+ ITEM:     
+ ipos=          842
+ ITEM:     
+ ipos=          843
+ ITEM:     
+ ipos=          844
+ ITEM:     
+ ipos=          845
+ ITEM:     
+ ipos=          846
+ ITEM:     
+ ipos=          847
+ ITEM:     
+ ipos=          848
+ ITEM:     
+ ipos=          849
+ ITEM:     
+ ipos=          850
+ ITEM:     
+ ipos=          851
+ ITEM:     
+ ipos=          852
+ ITEM:     
+ ipos=          853
+ ITEM:     
+ ipos=          854
+ ITEM:     
+ ipos=          855
+ ITEM:     
+ ipos=          856
+ ITEM:     
+ ipos=          857
+ ITEM:     
+ ipos=          858
+ ITEM:     
+ ipos=          859
+ ITEM:     
+ ipos=          860
+ ITEM:     
+ ipos=          861
+ ITEM:     
+ ipos=          862
+ ITEM:     
+ ipos=          863
+ ITEM:     
+ ipos=          864
+ ITEM:     
+ ipos=          865
+ ITEM:     
+ ipos=          866
+ ITEM:     
+ ipos=          867
+ ITEM:     
+ ipos=          868
+ ITEM:     
+ ipos=          869
+ ITEM:     
+ ipos=          870
+ ITEM:     
+ ipos=          871
+ ITEM:     
+ ipos=          872
+ ITEM:     
+ ipos=          873
+ ITEM:     
+ ipos=          874
+ ITEM:     
+ ipos=          875
+ ITEM:     
+ ipos=          876
+ ITEM:     
+ ipos=          877
+ ITEM:     
+ ipos=          878
+ ITEM:     
+ ipos=          879
+ ITEM:     
+ ipos=          880
+ ITEM:     
+ ipos=          881
+ ITEM:     
+ ipos=          882
+ ITEM:     
+ ipos=          883
+ ITEM:     
+ ipos=          884
+ ITEM:     
+ ipos=          885
+ ITEM:     
+ ipos=          886
+ ITEM:     
+ ipos=          887
+ ITEM:     
+ ipos=          888
+ ITEM:     
+ ipos=          889
+ ITEM:     
+ ipos=          890
+ ITEM:     
+ ipos=          891
+ ITEM:     
+ ipos=          892
+ ITEM:     
+ ipos=          893
+ ITEM:     
+ ipos=          894
+ ITEM:     
+ ipos=          895
+ ITEM:     
+ ipos=          896
+ ITEM:     
+ ipos=          897
+ ITEM:     
+ ipos=          898
+ ITEM:     
+ ipos=          899
+ ITEM:     
+ ipos=          900
+ ITEM:     
+ ipos=          901
+ ITEM:     
+ ipos=          902
+ ITEM:     
+ ipos=          903
+ ITEM:     
+ ipos=          904
+ ITEM:     
+ ipos=          905
+ ITEM:     
+ ipos=          906
+ ITEM:     
+ ipos=          907
+ ITEM:     
+ ipos=          908
+ ITEM:     
+ ipos=          909
+ ITEM:     
+ ipos=          910
+ ITEM:     
+ ipos=          911
+ ITEM:     
+ ipos=          912
+ ITEM:     
+ ipos=          913
+ ITEM:     
+ ipos=          914
+ ITEM:     
+ ipos=          915
+ ITEM:     
+ ipos=          916
+ ITEM:     
+ ipos=          917
+ ITEM:     
+ ipos=          918
+ ITEM:     
+ ipos=          919
+ ITEM:     
+ ipos=          920
+ ITEM:     
+ ipos=          921
+ ITEM:     
+ ipos=          922
+ ITEM:     
+ ipos=          923
+ ITEM:     
+ ipos=          924
+ ITEM:     
+ ipos=          925
+ ITEM:     
+ ipos=          926
+ ITEM:     
+ ipos=          927
+ ITEM:     
+ ipos=          928
+ ITEM:     
+ ipos=          929
+ ITEM:     
+ ipos=          930
+ ITEM:     
+ ipos=          931
+ ITEM:     
+ ipos=          932
+ ITEM:     
+ ipos=          933
+ ITEM:     
+ ipos=          934
+ ITEM:     
+ ipos=          935
+ ITEM:     
+ ipos=          936
+ ITEM:     
+ ipos=          937
+ ITEM:     
+ ipos=          938
+ ITEM:     
+ ipos=          939
+ ITEM:     
+ ipos=          940
+ ITEM:     
+ ipos=          941
+ ITEM:     
+ ipos=          942
+ ITEM:     
+ ipos=          943
+ ITEM:     
+ ipos=          944
+ ITEM:     
+ ipos=          945
+ ITEM:     
+ ipos=          946
+ ITEM:     
+ ipos=          947
+ ITEM:     
+ ipos=          948
+ ITEM:     
+ ipos=          949
+ ITEM:     
+ ipos=          950
+ ITEM:     
+ ipos=          951
+ ITEM:     
+ ipos=          952
+ ITEM:     
+ ipos=          953
+ ITEM:     
+ ipos=          954
+ ITEM:     
+ ipos=          955
+ ITEM:     
+ ipos=          956
+ ITEM:     
+ ipos=          957
+ ITEM:     
+ ipos=          958
+ ITEM:     
+ ipos=          959
+ ITEM:     
+ ipos=          960
+ ITEM:     
+ ipos=          961
+ ITEM:     
+ ipos=          962
+ ITEM:     
+ ipos=          963
+ ITEM:     
+ ipos=          964
+ ITEM:     
+ ipos=          965
+ ITEM:     
+ ipos=          966
+ ITEM:     
+ ipos=          967
+ ITEM:     
+ ipos=          968
+ ITEM:     
+ ipos=          969
+ ITEM:     
+ ipos=          970
+ ITEM:     
+ ipos=          971
+ ITEM:     
+ ipos=          972
+ ITEM:     
+ ipos=          973
+ ITEM:     
+ ipos=          974
+ ITEM:     
+ ipos=          975
+ ITEM:     
+ ipos=          976
+ ITEM:     
+ ipos=          977
+ ITEM:     
+ ipos=          978
+ ITEM:     
+ ipos=          979
+ ITEM:     
+ ipos=          980
+ ITEM:     
+ ipos=          981
+ ITEM:     
+ ipos=          982
+ ITEM:     
+ ipos=          983
+ ITEM:     
+ ipos=          984
+ ITEM:     
+ ipos=          985
+ ITEM:     
+ ipos=          986
+ ITEM:     
+ ipos=          987
+ ITEM:     
+ ipos=          988
+ ITEM:     
+ ipos=          989
+ ITEM:     
+ ipos=          990
+ ITEM:     
+ ipos=          991
+ ITEM:     
+ ipos=          992
+ ITEM:     
+ ipos=          993
+ ITEM:     
+ ipos=          994
+ ITEM:     
+ ipos=          995
+ ITEM:     
+ ipos=          996
+ ITEM:     
+ ipos=          997
+ ITEM:     
+ ipos=          998
+ ITEM:     
+ ipos=          999
+ ITEM:     
+ ipos=         1000
+ ITEM:     
+ ipos=         1001
+ kng          28        1001
