@@ -1,1 +1,1 @@
-# LAMMPS-Analysis
+# MD Trajectory-Analysis
